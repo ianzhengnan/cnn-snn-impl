@@ -9,3 +9,8 @@
 *.token
 
 *.pickle
+
+*.pbtxt
+
+*.pb
+
