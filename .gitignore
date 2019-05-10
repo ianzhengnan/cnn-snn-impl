@@ -10,4 +10,7 @@
 
 *.pickle
 
+*.pbtxt
+
+*.pb
 
